@@ -1,10 +1,9 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
-favicon: /resumecard/assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
-rss_url: /resumecard/pages/atom.xml
+title: Ali Aalaoui's CV 
+description: Aalaoui's CV
+favicon: /assets/img/favicon.JPG
+baseurl: https://0xAalaoui.github.io
+url: https://0xAalaoui.github.io
 
 # Build settings
 markdown: kramdown
