@@ -2,9 +2,8 @@
 title: Ali Aalaoui's CV 
 description: Aalaoui's CV
 favicon: /assets/img/favicon.JPG
-baseurl: https://0xAalaoui.github.io/resumecard
-url: https://0xAalaoui.github.io/resumecard
-rss_url: /resumecard/pages/atom.xml
+baseurl: https://0xAalaoui.github.io
+url: https://0xAalaoui.github.io
 
 # Build settings
 markdown: kramdown
