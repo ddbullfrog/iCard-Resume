@@ -137,14 +137,14 @@ hr {
     content: " ";
     width: 3px;
     background-color: #eeeeee;
-    margin-left: -1.5px;
+    margin-left: 6px;
     left: 2%;
 }
 
 .timeline > li {
     margin-bottom: 20px;
     position: relative;
-    margin-left: 67px;
+    margin-left: 65px;
 }
 
 .timeline > li:before,
