@@ -10,9 +10,15 @@
             </div>
             <div class="col-sm-4 visible-md-block visible-lg-block visible-sm-block">
                 <p><i class="fa fa-envelope-o fa-fw"></i> {{ site.author.email }} </p>
+{% if site.author.github %}
                 <p><i class="fa fa-github fa-fw"></i><a href="https://github.com/{{ site.author.github }}" target="_blank">  @{{ site.author.github }} </a></p>
+{% endif %}
+{% if site.author.linkedin %}
                 <p><i class="fa fa-linkedin-square fa-fw"></i> <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank"> linkedin.com/in/{{ site.author.linkedin }} </a></p>
+{% endif %}
+{% if site.author.twitter %}
                 <p><i class="fa fa-twitter fa-fw"></i> <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank">  @{{ site.author.twitter }} </a></p>
+{% endif %}
 {% if site.author.gaddr %}
                 <p><i class="fa fa-at fa-fw"></i> <a href="//gaddr.me/{{site.author.gaddr}}" target="_blank"> @{{ site.author.gaddr }} </a></p>
 {% endif %}
