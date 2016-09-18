@@ -1,11 +1,11 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
-favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+title: Jérémie IOP's resume
+description: jiop's resume
+favicon:
+baseurl:
+url: https://jiop.github.io/
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+google_analytics: UA-84352712-1
 
 # Build settings
 markdown: kramdown
@@ -14,72 +14,145 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
-  weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow:
-#  stackoverflow: 4582127
+  name: Jérémie IOP
+  title: Ruby / DevOps Engineer
+  address: Melbourne, Australia
+  email: jeremie.iop@gmail.com
+  link: http://jiop.github.io
+  github: jiop
+  linkedin: jeremie-iop
+  twitter: jeremie_i
+  gravatar:
+  stackoverflow: 1364626
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
+      company: Elron Consulting
+      location: Paris, France
+      title: Ruby/DevOps Engineer
       started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      duration: (2014 - 2015)
+      description: Mostly in Ruby on Rails, I had to continue the development of a homemade cyber security supervision solution and to start new projects. In a big data context, I was responsible for the development of new features, for the maintenance of the ruby / ruby on rails based applications and for the design of new solutions (including continuous integration, packaging and delivery). As the most experimented developer in the team, I was also recommending Ruby, Rails and Git best practices.
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Multiple companies
+      location: Paris, France
+      title: Freelance web developer
+      started: 2013
+      duration: (2013 - 2015)
+      description: On behalf of multiple online businesses, I am responsible for needs analysis, design and production according to specifications created or issued by the customer. I also improve existing projects, write documentations and train the customer.
     - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Amarexia
+      location: Paris, France
+      title: Web consultant
+      started: 2013
+      duration: (2013 - 2014)
+      description: On behalf of Parrot S.A. within the context of the launch of the Flower Power (A light, temperature, water and fertilizer connected Bluetooth sensor for plants), I am responsible for a subcontractors team on the achievements of the website myflowerpower.parrot.com. I am also responsible for performance monitoring and servers’ administration.
+    - work4:
+      company: Axe Expansion
+      location: Paris, France
+      title: Web developer
+      started: 2012
+      duration: (2012 - 2013)
+      description: Within the context of the transition from a newspaper to an exclusively numerical presence, I am responsible for the development and administration of the website actu-cci.com on behalf of Axe Expansion.
+    - work5:
+      company: SpirOps
+      location: Paris, France
+      title: Engineer Researcher
+      started: 2010
+      duration: (2010 - 2011)
+      description: I am responsible for the analysis and the development of the project SGCogR (Serious Game for Cognitive Rehabilitation). The project is aiming to produce a dedicated device screening, pre-diagnosing, monitoring of people prone to cognitive impairment and a rehabilitation program computerized. I develop flying agents for the homemade crowd engine and a plugin to integrate them in Unity3D.
+    - work6:
+      company: SpirOps
+      location: Paris, France
+      title: Intern Engineer Researcher
+      started: 2010
+      duration: (2010 - 2010)
+      description: Within the context of the project BTG (Bus Training Game), I assist the project manager in writing specifications and developing pedestrians’ behavior.
+
   educationHistory:
     - education1:
-      organization: Northeastern University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      organization: Pierre and Marie Curie University
+      location: Paris, France
+      degree: Master degree of artificial intelligence and decision
+      major: Articial Intelligence and Decision
+      started: 2008
+      duration: (2008 - 2010)
+      description:
+
+    - education2:
+      organization: Pierre and Marie Curie University
+      location: Paris, France
+      degree: Conputer Science Degree
+      major: Articial Intelligence and Decision
+      started: 2009
+      duration: (2007 - 2008)
+      description:
+
+    - education3:
+      organization: Dauphine University
+      location: Paris, France
+      degree: First semester
+      major: Business informatics
+      started: 2009
+      duration: (2006 - 2007)
+      description:
+
+    - education4:
+      organization: René Descartes University
+      location: Paris, France
+      degree: University technology degree in Computer science
+      major: Computer Science
+      started: 2004
+      duration: (2004 - 2006)
+      description:
+
+    - education5:
+      organization: Lycée Montesquieu
+      location: Herblay, France
+      degree: Baccalauréat
+      major: Economical and Social Science
+      started: 2000
+      duration: (2000 - 2004)
+      description:
+
   languages:
     - language1:
-      name: Chinese
+      name: French
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
+
   programmingSkills:
     - skill1:
-      name: HTML
+      name: Ruby
       percentage: 100%
     - skill2:
-      name: Bootstrap
+      name: Ruby on Rails
       percentage: 90%
     - skill3:
       name: JavaScript
-      percentage: 70%
+      percentage: 60%
     - skill4:
-      name: AngularJS
+      name: Ansible
       percentage: 70%
     - skill5:
-      name: Java/Java EE
+      name: Git
       percentage: 90%
+    - skill6:
+      name: Unix (Ubuntu)
+      percentage: 90%
+    - skill7:
+      name: Vagrant
+      percentage: 70%
+    - skill8:
+      name: MongoDB
+      percentage: 70%
+    - skill9:
+      name: Postgres
+      percentage: 50%
+    - skill10:
+      name: MySQL
+      percentage: 50%
+    - skill11:
+      name: Vagrant
+      percentage: 70%
