@@ -2,7 +2,9 @@
     <div class="container-fluid">
         <div class="row-fluid">
             <div class="col-sm-4">
+                {% if site.favicon %}
                 <img src="{{ site.favicon | prepend: site.baseurl }}" title="Avatar" alt="My Avatar">
+                {% endif %}
                 <h4>{{ site.author.name }}</h4>
                 <p>{{ site.author.title }}</p>
                 <p class="muted">{{ site.author.address }}</p>
