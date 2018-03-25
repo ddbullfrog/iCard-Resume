@@ -3,7 +3,7 @@ title: "Ralitsa Voronevska's CV"
 description: Ralitsa Voronevska's CV
 favicon: /assets/img/avatar.jpg
 baseurl: /resume
-url: https://ralitsavoronevska.github.io
+url: 
 rss_url: /pages/atom.xml
 
 
@@ -23,7 +23,7 @@ author:
   github: ralitsavoronevska
   linkedin: ralitsavoronevska123
   twitter: RVoronevska
-  gavatar: /resumecard/assets/img/avatar.JPG
+  gavatar: /resume/assets/img/avatar.jpg
   stackoverflow: 6423505
 #  stackoverflow: 4582127
   workHistory:
