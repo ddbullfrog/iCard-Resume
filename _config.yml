@@ -1,9 +1,9 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Ralitsa Voronevska's CV 
+description: Ralitsa Voronevska's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: https://ralitsavoronevska.github.io/resume
+url: https://ralitsavoronevska.github.io/resume
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,40 +14,129 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  name: Ralitsa Voronevska
+  title: Online Survey Programmer & Project Manager
+  address: Sofia, Bulgaria
+  email: ralicavoronevska@gmail.com
+  link: https://ralitsavoronevska.github.io/about
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: ralitsavoronevska
+  linkedin: ralitsavoronevska123
+  twitter: RVoronevska
   gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow:
+  stackoverflow: 6423505
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: cQuest Research & Consulting Ltd
+      location: Sofia, Bulgaria
+      title: Project Manager of QP Team
+      started: May 2017
+      duration: (May 2017 - March 2018)
+      description: Technology used: HTML & CSS, JavaScript (+jQuery), XML, Python
+      Main responsibilities:
+      •	Writing weekly and daily updates regarding the workflow for colleagues from the other departments;
+      •	Monitoring the workflow and fieldwork, helping colleagues with giving ETA or with resources while consulting with the TL of the QP team/his substitute, if needed.
+      •	Participating in the distribution of project tasks, assigned parameters and timelines for implementation between the other employees in the team or department;
+      •	Participating in the immersion days for new colleagues and taking part in reviewing each candidate; 
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
+      company: cQuest Research & Consulting Ltd
+      location: Sofia, Bulgaria
       title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      started: July 2016
+      duration: (July 2016 - May 2017)
+      description: Technology used: HTML & CSS, JavaScript (+jQuery), and from November => XML and Python
+      Main responsibilities:
+      •	Accepting and conducting in a timely matter assigned tasks from the TL of the team / his substitute.
+      •	Defines the required format of the surveys and creates them by using specialized platforms depending on preset parameters;
+      •	Participate in the distribution of project tasks, assigned parameters and timelines for implementation between the other employees in the team or department;
+      •	Communicating timely with clients, employees, partners and external agencies included in the execution of the project;
+      •	When needed executes data entry and conducts quality checks the of the generated data in terms of client requirements;
+      •	Advices regarding approaches to certain projects or ways of work in order to accomplish high quality of the provided services;
+      •	Assists in the implementation of new for the company projects and activities.
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: EPAM Systems Bulgaria Ltd
+      location: Sofia, Bulgaria
+      title: Technical Recruiter
+      started: Dec 2015
+      duration: (Dec 2015 - Apr 2016)
+      description: Responsibilities:
+      • Proactively develop and execute candidate-generation strategies using all available recruiting tools;
+      • Proactively develop pipeline including the design, build and maintenance of a strong and diverse network of potential candidates;
+      • Establish and maintain solid working relationships with senior leaders across EPAM to actively recruit for open roles;
+      • Gather competitive data, industry trends, and labor market conditions and translate these to successful search strategies;
+      • Collaborate with hiring manager and business HR to create and deliver a comprehensive, compelling and balanced offer;
+      • Develop excellent internal client relationship, while communicating proactively and consistently with hiring managers and candidates;
+      • Support and implement Global Talent Acquisition strategies on local market.
+    - work4:
+      company: EPAM Systems Bulgaria Ltd
+      location: Sofia, Bulgaria
+      title: Talent Acquisition Administrator
+      started: May 2015
+      duration: (May 2015 - Dec 2015)
+      description: Responsibilities:
+      •	Managing incoming interviews scheduling (technical interview, RM round, final interview with client);
+      •	Re-scheduling and cancelations requests;
+      •	Contact with technical interviewers in order to establish their capacity for technical interview;
+      •	Contact with candidates in order to schedule convenient term for the interview;
+      •	Contact with clients in order to organize final interview regarding project assigning;
+      •	Taking care of pending interview;
+      •	Booking meeting rooms and necessary equipment;
+      •	Managing various administration activities (uploading jobs on the system and website, posting vacancies on the job boards);
+      •	Managing various administration activities in EPAM's database (opening new positions, updating candidates' statuses, attaching feedbacks);
+      •	Distributing job applications between recruiters;
+      •	Preparing all necessary paperwork and reports and providing this to managers;
+      •	Converting candidate’s applications and job specifications into company’s template;
+      •	Managing and conducting procedures connected with Referral Program (compiling CTC and Taleo reports);
+      •	Supporting other Talent Acquisition Teams from other locations.
+    - work5:
+      company: Easy Consult Ltd
+      location: Varna, Bulgaria
+      title: Junior HR Consultant
+      started: Mar 2014
+      duration: (Mar 2014 - Oct 2014)
+      description: Responsibilities:
+      • Declares all vacancies through appropriate media;
+      • Evaluation of CVs of candidates to determine suitability for the position;
+      • Directing and conducting interviews with the candidates and managing technical / lingual tests ;
+      • Keep a list of candidates in accordance with the requirements of the project;
+      • Liaise with external agencies (as required) ;
+      • Managing the process to finish - ensuring the conclusion of contracts and ensure start date;
+      • Take references from previous employers;
+      • Provides technical interviews/assessments of all candidates and ensure that the results are logged for reporting purposes;
+      • Provides assessment of language skills (oral and written) to all candidates and ensure that the results are entered for accounting purposes;
+      • Provide positive and professional positive representation of the client;
+      • Performs weekly activity report, as required by the supervisor;
+      • Contributes to making decisions about campaigns for recruitment and general advertising;
+      • Develop a group of qualified candidates in advance of need;
+      • Any other activities at the request of the supervisor;
+      • Follows all necessary processes to ensure the provision of information as required by various agencies and local Bulgarian legislation;
+      • Provides reports (as required) the supervisor, to starting work, and their profiles;
+      • Follows all necessary startup procedures to ensure timely delivery of equipment, supplies and access passwords for all new employees.
+    - work6:
+      company: Polycontact OOD
+      location: Varna, Bulgaria
+      title: Trainee in the field of the Human Resources
+      started: Feb 2014
+      duration: (Feb 2014 - Mar 2014)
+      description: The company is providing mostly work & travel services, related to consulting, training and professional conversion of human resources and in the occupational health as well.
+
+      • Participating in the program helped me understand better the different departments of the company. 
+
+      Main activities: contacting potential customers and maintaining the marketing standards and strategies of the company and as well presenting the company's activities and services.
+
+      During my trainee at Polycontact there was an integrated self-educating policy, which required participation of at least once on every two weeks by conducting presentation on interesting (already selected business-oriented topics) for all trainees and, of course, presenting it in front of the other trainees.
+    - work7:
+      company: Yepafrica B.V.
+      location: Dordrecht, The Netherlands
+      title: Trainee in the field of the Human Resources
+      started: Sept 2013
+      duration: (Sept 2013 - Dec 2013)
+      description: Responsibilities: 
+      • Creating, leading and accomplishing a plan for the internship; 
+      • Creating a Questionnaire in English in a virtual cloud (Google documents);
+      • Adjusting the responds from the English (for The Gambia, Africa) and the Dutch (for the Netherlands, Europe) questionnaires to SPSS;
+      • Analyzing the gathered data and presenting the results first in a report and after that as a power point presentation for an organizational event.
   educationHistory:
     - education1:
       organization: XXXXXX University
@@ -64,9 +153,6 @@ author:
     - language2:
       name: English
       proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
   programmingSkills:
     - skill1:
       name: HTML
