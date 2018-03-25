@@ -1,15 +1,15 @@
 # Site settings
-title: Ralitsa Voronevska's CV 
+title: "Ralitsa Voronevska's CV" 
 description: Ralitsa Voronevska's CV
-favicon: /assets/img/avatar.JPG
-baseurl: https://ralitsavoronevska.github.io/resume
+favicon: /assets/img/avatar.jpg
+baseurl: /resume
 url: https://ralitsavoronevska.github.io/resume
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+
 
 # Build settings
 markdown: kramdown
-
+highlighter: rouge
 exclude: [vendor]
 
 # Author settings
@@ -139,33 +139,69 @@ author:
       • Analyzing the gathered data and presenting the results first in a report and after that as a power point presentation for an organizational event.
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
+      organization: VFU "Chernorizetz Hrabar" University
+      location: Varna, Bulgaria
       degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  languages:
+      major: Bachelor in Informatics and computer technologies
+      started: 29.09.2014
+      duration: (29.09.2014 - 15.03.2015 (1 semester))
+      description: GPA: - / -
+      Introduction to management - 6 (B);
+      HTML & CSS - 6 (A);
+      Linear Algebra and Analytical Geometry - 5 (B);
+      Introduction to entrepreneurship - 6 (A);
+      Programming 1 part - 4 (D).
+    - education2:
+      organization: VFU "Chernorizetz Hrabar" University
+      location: Varna, Bulgaria
+      degree: Master
+      major: Master in Applied Psychology
+      started: 15.09.2013
+      duration: (15.09.2013 - 15.03.2015)
+      description: GPA: 5.9 / 6
+      I graduated by defending a thesis on the topic:  "Innerrelationships between motivation and forms of stimulation for employees serving customers" (in bulgarian) with a grade of 6.00 (Excellent).
+    - education3:
+      organization: VFU "Chernorizetz Hrabar" University
+      location: Varna, Bulgaria
+      degree: Bachelor
+      major: Bachelor in Psychology
+      started: 15.09.2009
+      duration: (15.09.2009 - 05.04.2013)
+      description: GPA: 5.9 / 6
+      I graduated by defending a thesis on the topic:  "Interdependencies amongst the labor satisfaction and the commitment to the organization" (in bulgarian) with a grade of 6.00 (Excellent). Subsequently the thesis was included as a report to the annual scientific conference "Applied Psychology - Opportunities and Prospects 2013",organized and held at VFU.
+  languages
     - language1:
-      name: Chinese
-      proficiency: Native
-    - language2:
       name: English
       proficiency: Professional
+    - language2:
+      name: German
+      proficiency: Intermediate
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: HTML5
+      percentage: 80%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: CSS3
+      percentage: 80%
     - skill3:
       name: JavaScript
       percentage: 70%
     - skill4:
-      name: AngularJS
+      name: jQuery
       percentage: 70%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: Bootstrap
+      percentage: 70%
+    - skill6:
+      name: C#
+      percentage: 50%
+    - skill7:
+      name: WordPress
+      percentage: 50%
+    - skill8:
+      name: XML
+      percentage: 40%
+   - skill8:
+      name: Python
+      percentage: 40%
+
