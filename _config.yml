@@ -1,85 +1,133 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
-favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+title: "Ralitsa Voronevska's CV" 
+description: Ralitsa Voronevska's CV
+favicon: /assets/img/avatar.jpg
+baseurl: /resume
+url: https://ralitsavoronevska.github.io
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
+
 
 # Build settings
 markdown: kramdown
-
+highlighter: rouge
 exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  name: Ralitsa Voronevska
+  title: Online Survey Programmer & Project Manager
+  address: Sofia, Bulgaria
+  email: ralicavoronevska@gmail.com
+  link: https://ralitsavoronevska.github.io/about
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow:
+  github: ralitsavoronevska
+  linkedin: ralitsavoronevska123
+  twitter: RVoronevska
+  gavatar: /resume/assets/img/avatar.jpg
+  stackoverflow: 6423505
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: cQuest Research & Consulting Ltd
+      location: Sofia, Bulgaria
+      title: Project Manager of QP Team
+      started: May 2017
+      duration: (May 2017 - March 2018)
+      description: Technology used: HTML & CSS, JavaScript (+jQuery), XML, Python
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
+      company: cQuest Research & Consulting Ltd
+      location: Sofia, Bulgaria
       title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      started: July 2016
+      duration: (July 2016 - May 2017)
+      description: Technology used: HTML & CSS, JavaScript (+jQuery), and from November => XML and Python
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: EPAM Systems Bulgaria Ltd
+      location: Sofia, Bulgaria
+      title: Technical Recruiter
+      started: Dec 2015
+      duration: (Dec 2015 - Apr 2016)
+    - work4:
+      company: EPAM Systems Bulgaria Ltd
+      location: Sofia, Bulgaria
+      title: Talent Acquisition Administrator
+      started: May 2015
+      duration: (May 2015 - Dec 2015)
+    - work5:
+      company: Easy Consult Ltd
+      location: Varna, Bulgaria
+      title: Junior HR Consultant
+      started: Mar 2014
+      duration: (Mar 2014 - Oct 2014)
+    - work6:
+      company: Polycontact OOD
+      location: Varna, Bulgaria
+      title: Trainee in the field of the Human Resources
+      started: Feb 2014
+      duration: (Feb 2014 - Mar 2014)
+    - work7:
+      company: Yepafrica B.V.
+      location: Dordrecht, The Netherlands
+      title: Trainee in the field of the Human Resources
+      started: Sept 2013
+      duration: (Sept 2013 - Dec 2013)
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
+      organization: VFU "Chernorizetz Hrabar" University
+      location: Varna, Bulgaria
       degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  languages:
+      major: Bachelor in Informatics and computer technologies
+      started: 29.09.2014
+      duration: (29.09.2014 - 15.03.2015 (1 semester))
+      description: GPA: - / -
+    - education2:
+      organization: VFU "Chernorizetz Hrabar" University
+      location: Varna, Bulgaria
+      degree: Master
+      major: Master in Applied Psychology
+      started: 15.09.2013
+      duration: (15.09.2013 - 15.03.2015)
+      description: GPA: 5.9 / 6
+    - education3:
+      organization: VFU "Chernorizetz Hrabar" University
+      location: Varna, Bulgaria
+      degree: Bachelor
+      major: Bachelor in Psychology
+      started: 15.09.2009
+      duration: (15.09.2009 - 05.04.2013)
+      description: GPA: 5.9 / 6
     - language1:
-      name: Chinese
-      proficiency: Native
-    - language2:
       name: English
       proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
+    - language2:
+      name: German
+      proficiency: Intermediate
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: HTML5
+      percentage: 80%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: CSS3
+      percentage: 80%
     - skill3:
       name: JavaScript
       percentage: 70%
     - skill4:
-      name: AngularJS
+      name: jQuery
       percentage: 70%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: Bootstrap
+      percentage: 70%
+    - skill6:
+      name: C#
+      percentage: 50%
+    - skill7:
+      name: WordPress
+      percentage: 50%
+    - skill8:
+      name: XML
+      percentage: 40%
+    - skill9:
+      name: Python
+      percentage: 40%
+
