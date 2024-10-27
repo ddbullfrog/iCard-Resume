@@ -4,3 +4,5 @@ _site
 resumecard.iml
 /*.iml
 Gemfile.lock
+.bundle
+vendor

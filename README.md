@@ -20,6 +20,12 @@ This is the web page on desktop browser.
 
 You should have a server up and running locally at <http://localhost:4000>.
 
+If you run into errors, run the following
+```
+bundle config set --local path 'vendor/bundle' # for user setup, skip if you want to install dependencies to root
+bundle install
+```
+
 ## Features
 -------
 - Responsive Jekyll theme
